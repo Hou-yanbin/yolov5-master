@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>fire_data1024</folder>
+	<filename>724.jpg</filename>
+	<path>G:\coco128\fire_data1024\724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2462</xmin>
+			<ymin>1372</ymin>
+			<xmax>3542</xmax>
+			<ymax>2568</ymax>
+		</bndbox>
+	</object>
+</annotation>
