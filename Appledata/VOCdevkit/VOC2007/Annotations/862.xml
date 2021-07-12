@@ -1,0 +1,15 @@
+<annotation>
+	<folder>00</folder>
+	<filename>1001.jpg</filename>
+	<path>C:\Users\82686\Pictures\apples_datas\train\数据集\0\00\1001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	
+</annotation>

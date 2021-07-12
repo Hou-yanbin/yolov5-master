@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>802.jpg</filename>
+	<path>C:\Users\25659\OneDrive\桌面\A\数据集\5\images\802.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cedar_Apple_Rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>76</ymin>
+			<xmax>146</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

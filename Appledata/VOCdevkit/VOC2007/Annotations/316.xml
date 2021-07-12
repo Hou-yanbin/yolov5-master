@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>531.jpg</filename>
+	<path>C:\Users\82686\Pictures\apples_datas\train\数据集\2\531.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple_Scab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>8</ymin>
+			<xmax>184</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

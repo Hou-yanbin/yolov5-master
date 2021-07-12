@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>415.JPG</filename>
+	<path>C:\Users\82686\Desktop\yezi\images\415.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple_Frogeye_Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>57</ymin>
+			<xmax>67</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>
