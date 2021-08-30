@@ -2,7 +2,7 @@
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
 train:  Appledata/VOCdevkit/images/train/
-val: Appledata/VOCdevkit/labels/images/val/
+val: Appledata/VOCdevkit/images/val/
 # number of classes
 nc: 3
 # class names

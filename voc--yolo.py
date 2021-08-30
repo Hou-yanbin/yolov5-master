@@ -6,10 +6,12 @@
 import os
 import xml.etree.ElementTree as ET
 
-class_names = ['Apple_Scab', 'Cedar_Apple_Rust']
+class_names = ['Corn Curvularia leaf spot fungus general']
 
-xmlpath = 'D:\\yolov5-master\\yolov5-master\\Apple_data\\labels\\'  # 原xml路径
-txtpath = 'C:\\labels\\'  # 转换后txt文件存放路径
+# xmlpath = 'D:\\yolov5-master\\yolov5-master\\Apple_data\\labels\\'  # 原xml路径
+xmlpath = 'C:\\Users\\25659\\OneDrive\\桌面\\15\\labels\\'  # 原xml路径
+# txtpath = 'C:\\labels\\'  # 转换后txt文件存放路径
+txtpath = 'C:\\Users\\25659\\OneDrive\\桌面\\15\\a\\'  # 转换后txt文件存放路径
 files = []
 
 # for root, dirs, files in os.walk(xmlpath):
